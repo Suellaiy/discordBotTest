@@ -1,0 +1,8 @@
+{
+  "name": "discordBotTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com-private:Suellaiy/discordBotTest.git",
+  "author": "SonYoungGyun <dksnqltm117@gmail.com>",
+  "license": "MIT"
+}
